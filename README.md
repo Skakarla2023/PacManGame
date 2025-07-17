@@ -23,16 +23,6 @@ This game recreates the classic arcade gameplay: collect dots, avoid ghosts, and
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YourUsername/PacMan.git
-   cd PacMan
-
-
-
-
 
 ## Getting Started
 
