@@ -1,3 +1,39 @@
+# 🟡 PacMan Game
+
+[![Java](https://img.shields.io/badge/Made%20With-Java-blue?style=for-the-badge&logo=java)](https://www.java.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-green?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
+
+---
+
+## 🎮 Game Description
+
+A simple **PacMan clone** built using **Java**.  
+This game recreates the classic arcade gameplay: collect dots, avoid ghosts, and try to survive as long as possible!
+
+---
+
+## 🛠️ Features
+
+- 🟡 Classic PacMan movement and controls  
+- 👻 Basic enemy AI (ghosts follow the player)  
+- 🧱 Maze layout with walls and paths  
+- 💯 Score tracking  
+- ⏸️ Pause & Reset functionality (optional)
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YourUsername/PacMan.git
+   cd PacMan
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
